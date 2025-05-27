@@ -12,5 +12,7 @@ public class Par {
         else {
             System.out.println("Ímpar");
         }
+
+        sc.close();
     }
 }

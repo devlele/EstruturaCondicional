@@ -12,5 +12,7 @@ public class Main {
         else {
             System.out.println("Positivo");
         }
+
+        sc.close();
     }
 }
